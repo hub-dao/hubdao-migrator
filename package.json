@@ -1,0 +1,11 @@
+{
+  "name": "migrator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "hubdao-core": "^1.0.2",
+    "hubdao-periphery": "^1.0.0"
+  }
+}
